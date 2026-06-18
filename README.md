@@ -97,6 +97,5 @@ Data Analyst
 
 LinkedIn:
 https://www.linkedin.com/in/olabisi-adegoke
-
 GitHub:
 https://github.com/your-github-username
