@@ -95,6 +95,8 @@ Olabisi Adeyemo
 
 Data Analyst
 
+Linkedin:
 https://www.linkedin.com/in/olabisi-adegoke
+
 GitHub:
-https://github.com/your-github-username
+https://github.com/OlabisiAdeyemoDATA
